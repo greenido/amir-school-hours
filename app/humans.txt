@@ -7,9 +7,11 @@
 
 # THANKS
 
-  To Amir and Gal for the idea!
-  
+  To the amazing boys for the idea!
 
 # TECHNOLOGY COLOPHON
 
-  HTML5, CSS3
+  HTML5, CSS3 and Google App Engine for the great hosting.
+
+Be strong.
+
